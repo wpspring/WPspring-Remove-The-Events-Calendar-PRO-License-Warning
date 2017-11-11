@@ -2,9 +2,9 @@
 Contributors: wpspring
 Tags: remove the events calendar pro license license warning
 Requires at least: 3.0
-Tested up to: 4.8.2
+Tested up to: 4.9
 Donate link: https://wpspring.com/
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3
 
 Removes the Events Calendar PRO license warning from the WP Admin header.
