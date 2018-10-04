@@ -3,11 +3,11 @@
  * Plugin Name: Remove The Events Calendar PRO License Warning
  * Plugin URI: https://wpspring.com/
  * Description: This plugin removes the Events Calendar PRO license warning from the WP Admin header.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: WPspring
  * Author URI: https://wpspring.com
  * Requires at least: 3.0
- * Tested up to: 4.9.5
+ * Tested up to: 4.9.8
  *
  * @author WPspring
  */
